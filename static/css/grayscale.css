@@ -135,7 +135,7 @@ header p {
 }
 
 .improve-contrast-box {
-  background: rgba(0, 0, 0, .5);
+  background: rgba(0, 0, 0, .6);
   border-radius: 5px;
   text-shadow: 0px 0px 8px rgba(0, 0, 0, 1);
 }
@@ -188,9 +188,23 @@ header p {
   background-size: cover;
 }
 
-.section-4 {
+.section-3 {
   color: white;
-  background: url("../img/section4-bg.jpg") no-repeat center center scroll;
+  background: url("../img/section3-bg.jpg") no-repeat center center scroll;
+  background-color: black;
+  background-size: cover;
+}
+
+.section-5 {
+  color: white;
+  background: url("../img/section5-bg.jpg") no-repeat center center scroll;
+  background-color:rgba(0, 0, 0, 0.9);
+  background-size: cover;
+}
+
+.section-7 {
+  color: white;
+  background: url("../img/section6-bg.jpg") no-repeat center center scroll;
   background-color: black;
   background-size: cover;
 }
